@@ -9,7 +9,7 @@ Using the new Express 4.0 Router to build an API
 
 ## Installation
 
-- Clone the repo:
+- Clone the repo: `https://github.com/le-Lab/node-api.git`
 - Install dependencies: `npm install`
 - Start the server: `node server.js`
 
